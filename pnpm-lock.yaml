@@ -29,6 +29,9 @@ importers:
       next-auth:
         specifier: 5.0.0-beta.25
         version: 5.0.0-beta.25(next@16.0.10(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(react@19.2.0)
+      nextjs-dashboard:
+        specifier: 'link:'
+        version: 'link:'
       postcss:
         specifier: 8.5.1
         version: 8.5.1
